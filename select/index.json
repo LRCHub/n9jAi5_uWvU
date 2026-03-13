@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Might Just",
+  "base_artist": "Ella Mai",
+  "createdAt": "2026-03-13T15:01:58.747550Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Raw (Might Just)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/01_Raw_(Might_Just)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Might Just",
+      "artist": "Beam",
+      "has_synced": false,
+      "path": "select/02_I_Might_Just_Beam.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Might Just Save My Life",
+      "artist": "House of Lords",
+      "has_synced": false,
+      "path": "select/03_You_Might_Just_Save_My_Life_House_of_Lords.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Might Just Take Your Life",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/04_Might_Just_Take_Your_Life_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Might Just Take Your Life",
+      "artist": "Whitesnake",
+      "has_synced": true,
+      "path": "select/05_Might_Just_Take_Your_Life_Whitesnake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Might Just Take Your Life",
+      "artist": "Deep Purple",
+      "has_synced": false,
+      "path": "select/06_Might_Just_Take_Your_Life_Deep_Purple.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Might Just Take Your Life",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/07_Might_Just_Take_Your_Life_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Might Just Take Your Life - 2004 Remastered Version",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/08_Might_Just_Take_Your_Life_-_2004_Remastered_Version_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Might Just Take Your Life (Remastered 2004)",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/09_Might_Just_Take_Your_Life_(Remastered_2004)_Deep_Purple.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Might Just",
+      "artist": "Ella Mai",
+      "has_synced": false,
+      "path": "select/pl_01_Might_Just_Ella_Mai.txt"
+    }
+  ]
+}
